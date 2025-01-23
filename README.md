@@ -1,6 +1,10 @@
 Exploratory Data Analysis (EDA) Project
 
 
+link for the original dataset - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?utm_source=chatgpt.com
+
+
+
 
 Project Overview
 
